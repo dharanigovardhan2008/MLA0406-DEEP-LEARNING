@@ -1,86 +1,122 @@
-# 🧠 MLA0406 – Deep Learning
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange?style=for-the-badge\&logo=numpy)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge\&logo=tensorflow)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+# 🧠 MLA0406 – Deep Learning
 
-# Deep Learning Laboratory Repository
+### *Complete Laboratory Programs • Practical Implementations • Assignments • Experiments*
 
-**A complete collection of Deep Learning laboratory programs, assignments, experiments, and implementations for the course MLA0406 – Deep Learning.**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Deep+Learning+Laboratory;Artificial+Intelligence+%26+Machine+Learning;Python+%7C+NumPy+%7C+TensorFlow+%7C+Keras" />
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/your-username/MLA0406-Deep-Learning?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/your-username/MLA0406-Deep-Learning?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/MLA0406-Deep-Learning?style=flat-square)
+![License](https://img.shields.io/badge/License-Educational-success?style=flat-square)
 
 </div>
 
 ---
 
-# 📚 About This Repository
+# 📚 Repository Overview
 
-This repository contains all the programs and practical implementations covered in the **MLA0406 – Deep Learning** course.
+Welcome to the **MLA0406 – Deep Learning** laboratory repository.
 
-The aim of this repository is to:
+This repository contains **all laboratory programs, assignments, practical implementations, and experiments** completed during the **Deep Learning** course.
 
-* Learn Deep Learning concepts from fundamentals to advanced topics.
-* Implement algorithms using Python.
-* Practice neural network architectures.
-* Understand real-world Deep Learning applications.
-* Maintain all laboratory exercises with proper documentation.
-* Track learning progress using Git and GitHub.
+It serves as a complete reference for understanding modern Deep Learning concepts through Python implementations.
 
 ---
 
-# 🎯 Course Information
+# 🎓 Academic Information
 
-| Item                | Details                                                         |
-| ------------------- | --------------------------------------------------------------- |
-| **Course Code**     | MLA0406                                                         |
-| **Course Name**     | Deep Learning                                                   |
-| **Language**        | Python                                                          |
-| **Libraries**       | NumPy, TensorFlow, Keras, Matplotlib, Pandas (where applicable) |
-| **IDE**             | VS Code / Jupyter Notebook                                      |
-| **Version Control** | Git & GitHub                                                    |
+| 📌 Item                  | 📖 Details                                   |
+| :----------------------- | :------------------------------------------- |
+| **Course Code**          | MLA0406                                      |
+| **Course Name**          | Deep Learning                                |
+| **Department**           | Artificial Intelligence & Machine Learning   |
+| **Programming Language** | Python                                       |
+| **Libraries Used**       | NumPy, TensorFlow, Keras, Matplotlib, Pandas |
+| **Faculty**              | **Dr. G. Bindu**                             |
+| **Version Control**      | Git & GitHub                                 |
 
 ---
 
-# 📖 Course Syllabus
+# 🚀 Technologies
 
-## 📘 Unit I – Introduction to Deep Learning
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,vscode" />
+
+</p>
+
+---
+
+# 🗂 Repository Structure
+
+```text
+MLA0406-Deep-Learning
+│
+├── 📁 Unit-01 Introduction to Deep Learning
+│
+├── 📁 Unit-02 Deep Learning Architectures
+│
+├── 📁 Unit-03 Convolutional Neural Networks
+│
+├── 📁 Unit-04 Transfer Learning & Sequence Modelling
+│
+├── 📁 Unit-05 Autoencoders & Deep Generative Models
+│
+├── 📁 Assignments
+│
+├── 📁 Practice Programs
+│
+├── 📄 README.md
+│
+└── 📄 requirements.txt
+```
+
+---
+
+# 📖 Course Contents
+
+## 🟦 Unit I — Introduction to Deep Learning
 
 * Learning Algorithms
 * Maximum Likelihood Estimation
-* Building Machine Learning Algorithms
+* Machine Learning Algorithms
 * Neural Networks
 * Multilayer Perceptron (MLP)
-* Backpropagation Algorithm
-* Stochastic Gradient Descent (SGD)
+* Backpropagation
+* Stochastic Gradient Descent
 * Curse of Dimensionality
 
 ---
 
-## 📗 Unit II – Deep Learning Architectures
+## 🟩 Unit II — Deep Learning Architectures
 
 * Machine Learning vs Deep Learning
 * Representation Learning
-* Width and Depth of Neural Networks
-* Activation Functions
-
-  * ReLU
-  * Leaky ReLU
-  * ELU
+* Width & Depth of Neural Networks
+* ReLU
+* Leaky ReLU
+* ELU
 * Unsupervised Learning
-* Restricted Boltzmann Machines (RBM)
+* Restricted Boltzmann Machines
 * Autoencoders
 * Deep Learning Applications
 
 ---
 
-## 📙 Unit III – Convolutional Neural Networks (CNN)
+## 🟨 Unit III — Convolutional Neural Networks
 
 * CNN Architecture
-* Motivation Behind CNN
-* Convolution Layers
-* Filters & Feature Maps
+* Feature Maps
+* Filters
 * Parameter Sharing
 * Regularization
 * AlexNet
@@ -89,166 +125,105 @@ The aim of this repository is to:
 
 ---
 
-## 📕 Unit IV – Transfer Learning & Sequence Modelling
+## 🟧 Unit IV — Transfer Learning & Sequence Modelling
 
 * Transfer Learning
-* CNN Variants
 * DenseNet
 * PixelNet
-* Recurrent Neural Networks (RNN)
+* Recurrent Neural Networks
 * Bidirectional RNN
-* Sequence-to-Sequence Models
 * Encoder–Decoder Architecture
-* Backpropagation Through Time (BPTT)
-* Long Short-Term Memory (LSTM)
+* BPTT
+* LSTM Networks
 
 ---
 
-## 📒 Unit V – Autoencoders & Deep Generative Models
+## 🟥 Unit V — Autoencoders & Deep Generative Models
 
 * Undercomplete Autoencoder
 * Regularized Autoencoder
-* Stochastic Encoder & Decoder
+* Stochastic Encoder
 * Contractive Autoencoder
-* Deep Belief Networks (DBN)
-* Restricted Boltzmann Machine (RBM)
-* Deep Boltzmann Machine (DBM)
-* Generative Adversarial Networks (GAN)
-
----
-
-# 📂 Repository Structure
-
-```text
-MLA0406-Deep-Learning/
-│
-├── Unit-1-Introduction/
-│   ├── Program-01
-│   ├── Program-02
-│   └── ...
-│
-├── Unit-2-Architectures/
-│
-├── Unit-3-CNN/
-│
-├── Unit-4-Transfer-Learning-RNN/
-│
-├── Unit-5-Autoencoders-GAN/
-│
-├── Assignments/
-├── Practice Programs/
-├── README.md
-└── requirements.txt
-```
-
----
-
-# 🚀 Topics Covered
-
-* Artificial Neural Networks
-* Perceptron
-* Multilayer Perceptron
-* Gradient Descent
-* Backpropagation
-* Activation Functions
-* Autoencoders
-* CNN
-* RNN
-* LSTM
-* Transfer Learning
-* DenseNet
-* AlexNet
-* ResNet
 * Deep Belief Networks
-* Boltzmann Machines
-* GAN
-* Deep Learning Applications
+* Restricted Boltzmann Machine
+* Deep Boltzmann Machine
+* Generative Adversarial Networks
 
 ---
 
-# 🛠 Technologies Used
-
-* Python
-* NumPy
-* TensorFlow
-* Keras
-* Matplotlib
-* Pandas
-* Jupyter Notebook
-* VS Code
-* Git
-* GitHub
-
----
-
-# ▶️ Getting Started
-
-Clone this repository:
+# 💻 How to Run
 
 ```bash
 git clone https://github.com/your-username/MLA0406-Deep-Learning.git
 ```
 
-Navigate to the project:
-
 ```bash
 cd MLA0406-Deep-Learning
 ```
 
-Run any program:
+```bash
+pip install -r requirements.txt
+```
 
 ```bash
 python filename.py
 ```
 
-or open the Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
 ---
 
-# 🎯 Learning Objectives
+# 🎯 Learning Outcomes
 
-After completing this repository, I will be able to:
+✅ Understand Neural Networks
 
-* Understand Deep Learning fundamentals.
-* Build neural networks from scratch.
-* Train Deep Learning models.
-* Work with CNNs and RNNs.
-* Implement Autoencoders and GANs.
-* Apply Deep Learning to real-world problems.
-* Strengthen Python programming and AI skills.
+✅ Implement Deep Learning algorithms
+
+✅ Learn CNN, RNN & LSTM
+
+✅ Build Autoencoders
+
+✅ Understand Transfer Learning
+
+✅ Explore Deep Generative Models
+
+✅ Improve Python programming skills
 
 ---
 
 # 📈 Repository Progress
 
-* ✅ Unit I – Introduction to Deep Learning
-* ✅ Unit II – Deep Learning Architectures
-* ✅ Unit III – Convolutional Neural Networks
-* ✅ Unit IV – Transfer Learning & Sequence Modelling
-* ✅ Unit V – Autoencoders & Deep Generative Models
+| Unit        | Status      |
+| ----------- | ----------- |
+| 🟢 Unit I   | ✅ Completed |
+| 🟢 Unit II  | ✅ Completed |
+| 🟢 Unit III | ✅ Completed |
+| 🟢 Unit IV  | ✅ Completed |
+| 🟢 Unit V   | ✅ Completed |
 
-> This repository will be continuously updated with new programs, assignments, and practical implementations throughout the semester.
+---
+
+# 📚 Recommended Books
+
+* 📘 *Deep Learning* — Ian Goodfellow, Yoshua Bengio & Aaron Courville
+* 📙 *Deep Learning with Python* — François Chollet
+* 📗 *Deep Learning: A Practitioner's Approach* — Josh Patterson & Adam Gibson
+* 📕 *Grokking Deep Learning* — Andrew W. Trask
 
 ---
 
 # 👨‍💻 Author
 
-**Paleru Dharani Govardhan**
+### **Paleru Dharani Govardhan**
 
 **B.Tech – Artificial Intelligence & Machine Learning**
-
-**Course:** MLA0406 – Deep Learning
 
 ---
 
 <div align="center">
 
-### ⭐ If this repository helps you, consider giving it a Star!
+### 🌟 *"Deep Learning is not about memorizing algorithms. It's about learning representations that solve real-world problems."*
 
-*"Learning Deep Learning, one model at a time."* 🚀
+⭐ **If you found this repository helpful, consider giving it a Star!**
+
+Made with ❤️ using **Python**, **TensorFlow**, **NumPy**, and **GitHub**.
 
 </div>

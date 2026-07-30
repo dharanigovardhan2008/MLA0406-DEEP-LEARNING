@@ -128,18 +128,61 @@ The repository will be updated continuously throughout the semester as new conce
 # 📂 Repository Structure
 
 ```text
-📦 MLA0406-Deep-Learning
- ┣ 📂 Unit-01
- ┣ 📂 Unit-02
- ┣ 📂 Unit-03
- ┣ 📂 Unit-04
- ┣ 📂 Unit-05
- ┣ 📂 Assignments
- ┣ 📜 README.md
- ┗ 📜 requirements.txt
+📦 MLA0406-DEEP-LEARNING
+│
+├── 📂 CO'S
+│   ├── 📂 CO-1
+│   ├── 📂 CO-2
+│   ├── 📂 CO-3
+│   ├── 📂 CO-4
+│   └── 📂 CO-5
+│
+├── 📂 Class
+│   ├── 📄 Class Notes
+│   ├── 📄 PPTs
+│   ├── 📄 Practice Programs
+│   └── 📄 Reference Materials
+│
+├── 📂 DEEP-LEARNING-LABS
+│   ├── 📂 Experiment1_confusion_matrix
+│   ├── 📂 Experiment2_binary_confusion_matrix
+│   ├── 📂 Experiment3_multiclass_confusion_matrix
+│   ├── 📂 Experiment4_overfitting_analysis
+│   ├── 📂 Experiment5_linear_regression
+│   ├── 📂 Experiment6_knn_wine_dataset
+│   ├── 📂 Experiment7_logistic_regression_sigmoid
+│   ├── 📂 Experiment8_knn_iris_dataset
+│   ├── 📂 Experiment9_naive_bayes_iris
+│   ├── 📂 Experiment10_logistic_regression_iris
+│   ├── 📂 Experiment11_decision_tree_iris
+│   ├── 📂 Experiment12_random_forest_iris
+│   ├── 📂 Experiment13_svm_iris
+│   ├── 📂 Experiment14_gradient_descent
+│   ├── 📂 Experiment15_image_segmentation_kmeans
+│   ├── 📂 Experiment16_image_segmentation_thresholding
+│   ├── 📂 Experiment17_linear_separability
+│   ├── 📂 Experiment18_neural_network_two_class
+│   ├── 📂 Experiment19_neural_network_circular_data
+│   ├── 📂 Experiment20_neural_network_multi_class
+│   ├── 📂 Experiment21_relu_circular_data
+│   ├── 📂 Experiment22_relu_two_class
+│   ├── 📂 Experiment23_sigmoid_spiral_data
+│   ├── 📂 Experiment24_sigmoid_multi_class
+│   ├── 📂 Experiment25_tanh_circular_data
+│   ├── 📂 Experiment26_tanh_multi_class
+│   ├── 📂 Experiment27_relu_two_class_lr001
+│   ├── 📂 Experiment28_relu_multi_class_lr001
+│   ├── 📂 Experiment29_tanh_multi_class
+│   ├── 📂 Experiment30_tanh_two_class
+│   ├── 📂 Experiment31_relu_multi_class
+│   ├── 📂 Experiment32_tanh_two_circular_data
+│   │
+│   ├── 📄 requirements.txt
+│   └── 📄 README.md
+│
+├── 📄 LICENSE
+└── 📄 README.md
 ```
-
----
 
 # 📈 Repository Progress
 
